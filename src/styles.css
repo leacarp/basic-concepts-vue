@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+.btn {
+  @apply p-3 bg-amber-600 hover:bg-amber-700 rounded-3xl mr-2;
+}
